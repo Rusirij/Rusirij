@@ -1,4 +1,4 @@
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rusirij.Rusirij" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rusiri+Jayalath!;" />
 </h1>
@@ -9,14 +9,12 @@
 
 <div align="center">
  
- 🔭 I’m in the search of suitable position in the software industry
+ 🔭 I’m in search of a suitable position in the software industry
  
  🌱 I’m currently learning **Flutter, AWS**
 
 💬 Ask me about **Java, J2EE, Spring, Spring Boot, Python JavaScript, React, SQL (PostgreSQL), TSQL,
 NOSQL (MongoDB), Powershell automation, Linux Shell Scripting**
-
-⚡ Fun fact **Why do wizards use brooms? Because vacuum cleaners can't fly at Hogwarts! #HarryPotter "WitchCraftHumor**
 
 😄 Pronouns: SHE/HER
 
@@ -34,18 +32,13 @@ NOSQL (MongoDB), Powershell automation, Linux Shell Scripting**
   </a>
 </div>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,github,docker,jenkins,maven" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,java,mysql" /><br>
+</div>
 
-<!--
-**Rusirij/Rusirij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<hr/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
