@@ -11,7 +11,7 @@
  
  🔭 I’m in search of a suitable position in the software industry
  
- 🌱 I’m currently learning **Flutter, AWS**
+ 🌱 I’m currently learning **Flutter, AWS, Azure**
 
 💬 Ask me about **Java, J2EE, Spring, Spring Boot, Python JavaScript, React, SQL (PostgreSQL), TSQL,
 NOSQL (MongoDB), Powershell automation, Linux Shell Scripting**
